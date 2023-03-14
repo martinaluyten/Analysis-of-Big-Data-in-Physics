@@ -17,6 +17,6 @@ link: https://github.com/martinaluyten/Analysis-of-Big-Data-in-Physics/blob/26f3
 
 Week 4 - Machine Learning
 1. MNIST exercise: ML_MNIST_NN_exercise.ipynb
-link: 
+link: https://github.com/martinaluyten/Analysis-of-Big-Data-in-Physics/blob/13763b711471de0cb7040c43b1c875ce5466e99f/ML_MNIST_NN_exercise.ipynb
 
 Week 5:
