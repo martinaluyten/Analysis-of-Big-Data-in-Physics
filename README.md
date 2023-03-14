@@ -8,6 +8,7 @@ https://github.com/martinaluyten/Analysis-of-Big-Data-in-Physics/blob/52d76ee1aa
 
 Week 3 - Gravitational wave data analysis : 
 1. Matched filter: Gravitational wave data analysis_Assignment1.ipynb
+https://github.com/martinaluyten/Analysis-of-Big-Data-in-Physics/blob/88733890390196c6784aa4088c19d7232b68184d/Gravitational_wave_data_analysis_Assignment1.ipynb
 2. Detector noise: Gravitational wave data analysis_Assignment2.ipynb
 3. Horizon distance of detectors: Gravitational wave data analysis_Assignment3.ipynb
 
