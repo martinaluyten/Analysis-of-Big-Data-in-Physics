@@ -23,4 +23,7 @@ Week 4 - Machine Learning
 1. MNIST exercise: ML_MNIST_NN_exercise.ipynb
   -link: https://github.com/martinaluyten/Analysis-of-Big-Data-in-Physics/blob/13763b711471de0cb7040c43b1c875ce5466e99f/ML_MNIST_NN_exercise.ipynb
 
+2. Generative Adversarial Networks : ML_FLW_GAN_exercise.ipynb
+  - link: https://github.com/martinaluyten/Analysis-of-Big-Data-in-Physics/blob/f7340806efcecc11ff95612058cd009d10b65cc0/ML_FLW_GAN_exercise.ipynb
+
 Week 5:
