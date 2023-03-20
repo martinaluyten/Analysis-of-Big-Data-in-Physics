@@ -1,6 +1,6 @@
 # Analysis-of-Big-Data-in-Physics - PRA3024
 
-Week 1 - Introduction
+Week 1 - Introduction Python
 
 Week 2 - Particle Physics 
 
